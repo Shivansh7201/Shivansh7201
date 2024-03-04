@@ -26,8 +26,6 @@ githubUsername: 'Shivansh Gupta'
 - AI Tools  **Midjourney, ChatGpt, BardAi, BingAi, Copilot** 
 - Portfolio site: [Portfolio](https://beacons.ai/shivansh7201)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=PushpneetSingh&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
 
 ```⭐️ From [Shivansh Gupta](https://github.com/Shivansh7201)```
