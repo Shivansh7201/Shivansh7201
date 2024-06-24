@@ -1,12 +1,6 @@
----
-title: Shivansh Gupta
-date: '2004-21-08'
-spoiler: Short and Sweet Realtime Readme Template
-categories: ["short-and-sweet", "all-profile"]
-githubUsername: 'Shivansh Gupta'
----
-
-<h2> 𝐇𝐞𝐥𝐥𝐨 GEEKERS<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1>Hey!,Welcome to my Github Profile</h1>
+<h3>Let's Learn, Connect, & Grow together!!!</h3>
+<img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shivansh_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivansh-gupta-2a339b227/)](https://www.linkedin.com/in/shivansh-gupta-2a339b227/)
 
