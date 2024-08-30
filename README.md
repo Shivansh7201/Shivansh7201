@@ -21,7 +21,4 @@
 - Skills Using Ai **Prompt Writing, Image Generation, Speech Generation, Model Making**
 - AI Tools  **Midjourney, ChatGpt, BardAi, BingAi, Copilot** 
 - Portfolio site: [Portfolio](https://beacons.ai/shivansh7201)
-
-
-
 ```⭐️ From [Shivansh Gupta](https://github.com/Shivansh7201)```
