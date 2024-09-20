@@ -1,5 +1,6 @@
 <h1>Hey!,Welcome to my Github Profile</h1>
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' src='https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png' width='200"'>
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='' src='https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png' width='200"'>
 <h3>Let's Learn, Connect, & Grow together!!!</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shivansh_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivansh-gupta-2a339b227/)](https://www.linkedin.com/in/shivansh-gupta-2a339b227/)
