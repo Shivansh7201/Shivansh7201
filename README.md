@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://your-demo-link.vercel.app">
-    <img src="MetaMask-icon-fox.svg" width="200" />
+    <img src="[MetaMask-icon-fox.svg](https://github.com/Shivansh7201/profileindex.html/blob/main/MetaMask-icon-fox.svg)" width="200" />
   </a>
 </p>
 
