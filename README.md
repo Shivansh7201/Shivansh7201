@@ -5,6 +5,14 @@
 - 📫 How to reach me: you can text me on my LinkedIn profile
 https://www.linkedin.com/in/shivansh-gupta-2a339b227
 shiv_ansh7201
+
+
+<br>
+
+<p align="left"> <a href="https://twitter.com/sarthak_sach69" target="_blank"><img src="https://img.shields.io/twitter/follow/sarthak_sach69?logo=twitter&style=for-the-badge&labelColor=%232e3330&color=grey" alt="sarthak_sach69" /></a> </p>
+
+<br>
+
 <!---
 Shivansh7201/Shivansh7201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
