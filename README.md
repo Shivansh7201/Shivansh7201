@@ -19,9 +19,9 @@ Shivansh7201/Shivansh7201 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3>Let's Pull Request, Contribute, & Grow Together!!!</h3>
+<!-- <h3>Let's Pull Request, Contribute, & Grow Together!!!</h3>
 
-![banner](https://github.com/user-attachments/assets/1698e6fa-d357-4688-a1eb-da66da3f19b4)
+![banner](https://github.com/user-attachments/assets/1698e6fa-d357-4688-a1eb-da66da3f19b4) -->
 
 <!--- ## 🦊 MetaMask Interactive Logo
 
