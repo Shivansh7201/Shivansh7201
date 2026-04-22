@@ -6,10 +6,11 @@
 https://www.linkedin.com/in/shivansh-gupta-2a339b227
 shiv_ansh7201
 
+<br />
 
-<br>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <a href="https://twitter.com/sarthak_sach69" target="_blank"><img src="https://img.shields.io/twitter/follow/sarthak_sach69?logo=twitter&style=for-the-badge&labelColor=%232e3330&color=grey" alt="sarthak_sach69" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-0-sach&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-0-sach" /> </p>
 
 <br>
 
