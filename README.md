@@ -1,30 +1,22 @@
-<br />
+<table>
+<tr>
+<td>
 
-<div align="left" style="display: flex; align-items: center; gap: 20px;">
+<h1>Code.Fix.Build.Ship</h1>
 
-  <h1>Code.Fix.Build.Ship</h1>
+</td>
 
-  <img 
-    alt="coding" 
-    width="120" 
-    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-  />
+<td>
 
-</div>
+<img 
+  alt="coding" 
+  width="120" 
+  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+/>
 
-- 📫 text me on my LinkedIn profile  
-  https://www.linkedin.com/in/shivansh-gupta-2a339b227
-
-shiv_ansh7201
-
-<p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=shivansh7201&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="sarthak-0-sach" 
-  />
-</p>
-
-<br>
+</td>
+</tr>
+</table>
 
 <!---
 Shivansh7201/Shivansh7201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
