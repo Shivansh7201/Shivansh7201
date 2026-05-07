@@ -22,22 +22,6 @@
 
 <br>
 
-<p align="center">
-
-  <img 
-    src="https://komarev.com/ghpvc/?username=shivansh7201&label=🔥+PROFILE+VIEWS&color=ff4500&style=for-the-badge" 
-    alt="profile views"
-  />
-
-  &nbsp;&nbsp;
-
-  <img 
-    src="https://img.shields.io/github/followers/shivansh7201?label=⭐%20Followers&style=for-the-badge&color=blue" 
-    alt="followers"
-  />
-
-</p>
-
 <!---
 Shivansh7201/Shivansh7201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
