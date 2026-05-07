@@ -1,14 +1,28 @@
 <br />
 
-<h1>Code.Fix.Build.Ship</h1>
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
 
-- 📫 text me on my LinkedIn profile
-https://www.linkedin.com/in/shivansh-gupta-2a339b227
+  <h1>Code.Fix.Build.Ship</h1>
+
+  <img 
+    alt="coding" 
+    width="120" 
+    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+  />
+
+</div>
+
+- 📫 text me on my LinkedIn profile  
+  https://www.linkedin.com/in/shivansh-gupta-2a339b227
+
 shiv_ansh7201
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivansh7201&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-0-sach" /> </p>
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=shivansh7201&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="sarthak-0-sach" 
+  />
+</p>
 
 <br>
 
