@@ -2,7 +2,9 @@
 <tr>
 <td>
 
-<h1>Code.Fix.Build.Ship</h1>
+<h1 align="center">
+  Code.Fix.Build.Ship
+</h1>
 
 </td>
 
@@ -10,13 +12,31 @@
 
 <img 
   alt="coding" 
-  width="120" 
+  width="150" 
   src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
 />
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+
+  <img 
+    src="https://komarev.com/ghpvc/?username=shivansh7201&label=🔥+PROFILE+VIEWS&color=ff4500&style=for-the-badge" 
+    alt="profile views"
+  />
+
+  &nbsp;&nbsp;
+
+  <img 
+    src="https://img.shields.io/github/followers/shivansh7201?label=⭐%20Followers&style=for-the-badge&color=blue" 
+    alt="followers"
+  />
+
+</p>
 
 <!---
 Shivansh7201/Shivansh7201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
