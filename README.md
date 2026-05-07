@@ -1,10 +1,8 @@
 <br />
 
-- 👋 Hi, I’m @Shivansh7201
-- 👀 I’m interested in coding, public speaking, content making, as well as searching and learning new things  
-- 🌱 I’m currently learning artificial intelligence and machine learning from B.Tech 
-- 💞️ I’m looking to collaborate on projects as well as continue making or learning something that will relate to my field
-- 📫 How to reach me: you can text me on my LinkedIn profile
+<h1>Code.Fix.Build.Ship</h1>
+
+- 📫 text me on my LinkedIn profile
 https://www.linkedin.com/in/shivansh-gupta-2a339b227
 shiv_ansh7201
 
